@@ -4,7 +4,7 @@
   */
 
 //define your token
-define("344234485", "nypick_up");
+define("TOKEN", "nypick_up");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
